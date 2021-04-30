@@ -25,23 +25,11 @@ Other changes in population have also been identified, such as an aging populati
 
 **Were there any differences in the population / population growth before and after the repeal of the one-child policy?**
     
-- As the one-child policy was such a long-lasting and widely enforced policy, I hypothesis that there would at least be some lasting effects. Exploring this question may give insight on how the policy has effected the population. 
+- As the one-child policy was such a long-lasting and widely enforced policy, I hypothesis that there would at least be some lasting effects. Exploring this question may give insight on how the policy has effected the population. Would be good to examine population by age as well.
 
 **What does the gender ratio and mortality rate at birth by gender in china look like across the years and does the one-child policy seem to have an effect?**
 
 - China currently has a higher male to female ratio and there has been evidence of sex-selective abortions in rural areas [6,7]. Examining how this has changed over time may reveal what factors effect the issue. 
-
-## Sources
-
-1. https://en.wikipedia.org/wiki/One-child_policy
-2. https://datacommons.org/place/country/CHN 
-3. https://nationalinterest.org/feature/dangerous-demographics-chinas-population-problem-will-eclipse-its-ambitions-80961
-4. https://pubmed.ncbi.nlm.nih.gov/12286553/ 
-5. https://www.brookings.edu/articles/chinas-population-destiny-the-looming-crisis/
-6. https://www.downtoearth.org.in/news/health/selective-abortions-killed-22-5-million-female-foetuses-in-china-india-64043
-7. https://www.researchgate.net/publication/24270887_China's_excess_males_sex_selective_abortion_and_one_child_policy_Analysis_of_data_from_2005_national_intercensus_survey
-
-
 
 ## Datasets:
 
@@ -50,10 +38,21 @@ Other changes in population have also been identified, such as an aging populati
 - [Gender ratio data](https://ourworldindata.org/gender-ratio)
     - Information about sex ratios, birth and mortality rates by sex, life expectancy by sex, and more for all countries across 1962-2017.
 - [Minimum set of gender indicators](https://genderstats.un.org/#/downloads)
-    - Data on child mortality rates, employment, education, and etc by sex for all countries 1990-2020. 
+    - Data on child mortality rates, employment, education, and etc by sex for all countries 1990-2020.
 
 ## Concerns and Considerations
 
 If it is found that the population is no longer growing at a alarming rate, people may deem this as a success of the one-child policy. We should be careful to not ignore the negative consequences of such an impactful policy. Vice-versa, if female birth mortality is found to have increased under the policy, we should also be wary of jumping to overly demonizing the government and/or policy. Effects of policies are hard to predict, and reasons behind sex-selective abortions stretch beyond more than just one policy.
 
 There are some concerns in attributing too much of the change in population to changes in the one-child policy. I would like to see if some of the changes line up with the timeline of changes to the policy, but this does not mean the policy is the sole or even main cause of population changes. We should keep in mind that other things, like economic and cultural changes, may have an effect on birth rates and gender ratios in China. Changes in policy may also be partly reactionary to changes in population too, so that is another thing to keep in mind.
+
+## Sources
+
+1. “One-Child Policy.” Wikipedia, Wikimedia Foundation, 30 Apr. 2021, https://en.wikipedia.org/wiki/One-child_policy.
+2. “People's Republic of China.” Data Commons, Data Commons, https://datacommons.org/place/country/CHN.
+3. Fensom, Anthony. “Dangerous Demographics: China's Population Problem Will Eclipse Its Ambitions.” The National Interest, The Center for the National Interest, 16 Sept. 2019, https://nationalinterest.org/feature/dangerous-demographics-chinas-population-problem-will-eclipse-its-ambitions-80961
+4. G, Qu, and Li J. “An Outline of Study on China's Population / Environment Issues.” China Population Newsletter, U.S. National Library of Medicine, https://pubmed.ncbi.nlm.nih.gov/12286553/.
+5. Wang, Feng, and Eswar Prasad. “China's Population Destiny: The Looming Crisis.” Brookings, Brookings, 28 July 2016, www.brookings.edu/articles/chinas-population-destiny-the-looming-crisis/.
+6. Pandey, Kiran. “Selective Abortions Killed 22.5 Million Female Foetuses in China, India.” Down To Earth, https://www.downtoearth.org.in/news/health/selective-abortions-killed-22-5-million-female-foetuses-in-china-india-64043.
+7. Zhu, W. X., et al. “China's Excess Males, Sex Selective Abortion, and One Child Policy: Analysis of Data from 2005 National Intercensus Survey.” BMJ, vol. 338, no. apr09 2, 2009, doi:10.1136/bmj.b1211, https://www.researchgate.net/publication/24270887_China's_excess_males_sex_selective_abortion_and_one_child_policy_Analysis_of_data_from_2005_national_intercensus_survey
+
