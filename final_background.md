@@ -1,38 +1,56 @@
 
-# Midterm Background
+Background on the problem, sufficient for a Computer Science colleague to understand. Aim for about two paragraphs.
 
-## Problem: 
+The list of research questions you will be answering. Probably going to have 3-4.
 
-Racial inequality and disparity in education. Basically seeing if there is a difference in student performance across different races and analyzing what factors in education might contribute to that. 
+Justification for the importance of each of the questions, including arguments and evidence. A short paragraph will be sufficient for each question.
+Links to the dataset(s) you will be using.
+A few sentences explanation of what the data is, so I know what I'm looking at.
 
-## Questions:
+# Final Background
 
-- What are the differences in student performance across different races in Delaware?
-- Is there currently still a disparity in student performance between white students and students of color in Delaware? 
-- If there is a disparity, how might it have changed over time?
+## Title
 
-## Justification:
+Analysis of China's Population.
 
-In the United States, there has long been a history of educational disparities between African American and White students. There've been records of significant differences in average standardized testing scores between the two groups [1], as well as biases in teacher expectation, which may contribute to performance differences in students [1,2]. These differences have also been found in Delaware. In 2013, the percentages of African American and White 10th graders in Delaware who met the state's math standard differed by 25.4%. This disparity has not changed much since the 26.7% difference in 1993 [3,4]. 
+## Problem
 
-I would like to explore, based on the information we have now, if these disparities in student performance have changed. Additionally, although disparities have also been found for Hispanic and Latino students in the United States [5], I've found less information / research focusing on this for Delaware. I want to take a look at student performance information across all races, to see if there are any additional educational disparities in Delaware. 
+The impact of changes in China's one-child policy on China's population and gender ratios.
 
-## Sources:
+## Background
+
+Around the 1960s, China saw a huge leap in population due to low death rates and a spike in birth rates. With concern for the growth in population, policymakers instituted the one-child policy in 1980s. This policy restricted families to only birth one child and heavily fined those that raised more than one. Other enforcement methods included mandatory sterilization, forced abortions, and governmental pushes for contraceptives [1,3]. 
+
+Today, China still faces many issues of overpopulation. Cities are crowded and the population is putting a strain on natural resources. Overpoplulation has contributed to growing water and air pollution as well [4]. As of recent times, China sits at around 1.4 billion people as the number one most populous country [2]. 
+
+## Questions and Justification
+
+- Has China's population growth slowed in recent years and how might it be projected to grow? 
+    - a
+- Were there any differences in population / population growth before and after the repeal of the one-child policy?
+    - a
+- What does the gender ratio and mortality rate at birth by gender in china look like across the years and does the one-child policy seem to have an effect? 
+    - a
+
+## Sources
 
 1. https://en.wikipedia.org/wiki/One-child_policy
-2. https://www.researchgate.net/publication/24270887_China's_excess_males_sex_selective_abortion_and_one_child_policy_Analysis_of_data_from_2005_national_intercensus_survey
-3.
+2. https://datacommons.org/place/country/CHN 
+3. https://nationalinterest.org/feature/dangerous-demographics-chinas-population-problem-will-eclipse-its-ambitions-80961
+4. https://pubmed.ncbi.nlm.nih.gov/12286553/ 
+5. https://www.researchgate.net/publication/24270887_China's_excess_males_sex_selective_abortion_and_one_child_policy_Analysis_of_data_from_2005_national_intercensus_survey
+
 
 
 ## Datasets:
 
 - [Gender ratios for birth](https://ourworldindata.org/gender-ratio)
+    - j
 - [Population and other data for China across years](https://data.worldbank.org/country/china?view=chart)
+    - j
 
 ## Concerns and Considerations
 
-I briefly looked over the datasets, and it seemed like for some school districts some information was missing. I'm not entirely sure how much or what information is missing or how that might effect the conclusions. Just going to have to work with the information that is there. 
+If it is found that the population is no longer growing at a alarming rate, people may deem this as a success of the one-child policy. We should be careful to not ignore the negative consequences of such an impactful policy. Vice-versa, if female birth mortality is found to have increased under the policy, we should also be wary of demonizing the government and policy too much. Effects of policies are hard to predict, and reasons behind sex-selective abortions stretch beyond more than just one policy.
 
-My hope in analyzing this data is to help identify a problem and difference in education so that people can be more aware in addressing the issue. My concern is that some may use the info presented to further perpetuate racial stereotypes, or attribute the differences in performance to something inherent to the students, rather than external forces. I really hope people don't come to that kind of conclusion, so I will be careful in how I present my findings. 
-
-I also want to be mindful that differences in student performance in school may not solely be the due to educational inequality, but could be a result of general inequality and effects of stereotypes outside of school. That, though the data may show a problem in education, to effectively address the issue one may have to work on a broader scale and look at factors outside education. 
+There are some concerns in attributing too much of the change in population to changes in the one-child policy. I would like to see if some of the changes line up with the timeline of changes to the policy, but this does not mean the policy is the sole or even main cause of population changes. We should keep in mind that other things, like economic and cultural changes, may have an effect on birth rates and gender ratios in China. Changes in policy may also be partly reactionary to changes in population too, so that is another thing to keep in mind. 
