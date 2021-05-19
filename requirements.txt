@@ -1,0 +1,14 @@
+seaborn
+matplotlib
+pandas
+numpy
+scipy
+statsmodels
+
+GDAL
+fiona
+shapely
+pyproj
+rtree
+mapclassify
+geopandas
