@@ -1,2 +1,2 @@
 # CISC367_Final
-Repo for final project.
+Analyzing the impact of changes in China's childbirth policies on China's population and gender ratios.
